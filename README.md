@@ -33,6 +33,7 @@ Luego visita `http://localhost:3000`.
 | `←` `→`   | Rotar nave |
 | `↑`       | Propulsar  |
 | `Espacio` | Disparar   |
+| `B`       | Bomba Nova (destruye todos los asteroides; se recoge como ítem escaso) |
 
 ## Puntuación
 
